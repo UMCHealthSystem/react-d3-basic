@@ -1,4 +1,34 @@
-### updated breaking changes in recent react updates (HEAD -> master)
+### update packages (HEAD -> master)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Mon, 23 Jul 2018 16:40:39 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Mon, 23 Jul 2018 16:40:39 -0500
+
+>Commit: 26f4a6e65fba66e05c2e6f2f565c5cf82b9a0408 
+
+
+
+
+### changelog (origin/master, origin/HEAD)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Mon, 23 Jul 2018 16:33:50 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Mon, 23 Jul 2018 16:33:50 -0500
+
+>Commit: 1b08cee892f902a1d59dc480c0ab482b0251e359 
+
+
+
+
+### updated breaking changes in recent react updates
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -13,7 +43,7 @@
 
 
 
-### build (origin/master, origin/HEAD)
+### build
 
 >Author: chilijung (chilijung@gmail.com)
 
