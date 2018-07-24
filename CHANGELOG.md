@@ -1,4 +1,34 @@
-### reverts (HEAD -> master)
+### switching to react-d3-core package that supports react 16.x (HEAD -> master)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 10:17:24 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 10:17:24 -0500
+
+>Commit: ed9f5cc3436dc94297820a33333605fe9ac4c3d5 
+
+
+
+
+### CHANGELOG.md (origin/master, origin/HEAD)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:52:43 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:52:43 -0500
+
+>Commit: 42eeab2239e969da6ce9d54dd7961948bb52bab7 
+
+
+
+
+### reverts
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -13,7 +43,7 @@
 
 
 
-### CHANGELOG.md (origin/master, origin/HEAD)
+### CHANGELOG.md
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
