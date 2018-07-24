@@ -4,6 +4,7 @@
   "description": "react chart component",
   "main": "./lib/index.js",
   "directories": {
+    "doc": "docs",
     "example": "example"
   },
   "scripts": {
@@ -12,7 +13,7 @@
     "prod": "BABEL_ENV=production NODE_ENV=0 webpack --config webpack.prod.config.js && BABEL_ENV=production NODE_ENV=1 webpack --config webpack.prod.config.js"
   },
   "author": "ElixirDoc team",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -54,5 +55,17 @@
     "react-d3-core": "^1.3.9",
     "react-d3-shape": "^0.3.25",
     "react-faux-dom": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMCHealthSystem/react-d3-basic.git"
+  },
+  "keywords": [
+    "react",
+    "d3"
+  ],
+  "bugs": {
+    "url": "https://github.com/UMCHealthSystem/react-d3-basic/issues"
+  },
+  "homepage": "https://github.com/UMCHealthSystem/react-d3-basic#readme"
 }
