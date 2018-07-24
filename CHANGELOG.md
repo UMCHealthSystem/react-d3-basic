@@ -1,4 +1,64 @@
-### package upates (HEAD -> master)
+### reverts (HEAD -> master)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:51:51 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:51:51 -0500
+
+>Commit: de6ac4279d562b5aa40e527a8f96d19cc83d22a4 
+
+
+
+
+### CHANGELOG.md (origin/master, origin/HEAD)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:47:06 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:47:06 -0500
+
+>Commit: 8e3a7fd8789e25bca8a47a8204fb53fa454a380a 
+
+
+
+
+### npm install deps
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:46:40 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:46:40 -0500
+
+>Commit: da8d0066bdccfe4770915288636d22d67c7026cd 
+
+
+
+
+### CHANGELOG.md
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:34:39 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:34:39 -0500
+
+>Commit: acbe1a61823105b8bfaf8eee2a5e61788ea27a5f 
+
+
+
+
+### package upates
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -28,7 +88,7 @@
 
 
 
-### update packages (origin/master, origin/HEAD)
+### update packages
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
