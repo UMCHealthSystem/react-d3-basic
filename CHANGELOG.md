@@ -1,34 +1,4 @@
-### npm install deps (HEAD -> master)
-
->Author: Chris Blazek (chris.blazek@gmail.com)
-
->Author Date: Tue, 24 Jul 2018 08:46:40 -0500
-
->Commiter: Chris Blazek (chris.blazek@gmail.com)
-
->Commit Date: Tue, 24 Jul 2018 08:46:40 -0500
-
->Commit: da8d0066bdccfe4770915288636d22d67c7026cd 
-
-
-
-
-### CHANGELOG.md (origin/master, origin/HEAD)
-
->Author: Chris Blazek (chris.blazek@gmail.com)
-
->Author Date: Tue, 24 Jul 2018 08:34:39 -0500
-
->Commiter: Chris Blazek (chris.blazek@gmail.com)
-
->Commit Date: Tue, 24 Jul 2018 08:34:39 -0500
-
->Commit: acbe1a61823105b8bfaf8eee2a5e61788ea27a5f 
-
-
-
-
-### package upates
+### package upates (HEAD -> master)
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -58,7 +28,7 @@
 
 
 
-### update packages
+### update packages (origin/master, origin/HEAD)
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
