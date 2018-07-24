@@ -1,4 +1,49 @@
-### switching to react-d3-core package that supports react 16.x (HEAD -> master)
+### replacing colors that were stripped from a previous d3-scale library (HEAD -> master)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 15:52:40 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 15:52:40 -0500
+
+>Commit: e18c1dd073ee16be04f3e794e477544bdb04fdbb 
+
+
+
+
+### package repo updates (origin/master, origin/HEAD)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 12:01:25 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 12:01:25 -0500
+
+>Commit: f40f29a6e6fbd34804230d8b4e654e7a5491434a 
+
+
+
+
+### switching to react-d3-core package that supports react 16.x
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 10:17:28 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 10:17:28 -0500
+
+>Commit: e1965ce63ac3584015c8df20f2476d44bbfb3c76 
+
+
+
+
+### switching to react-d3-core package that supports react 16.x
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -13,7 +58,7 @@
 
 
 
-### CHANGELOG.md (origin/master, origin/HEAD)
+### CHANGELOG.md
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
