@@ -1,4 +1,49 @@
-### update packages (HEAD -> master)
+### package upates (HEAD -> master)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:34:23 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:34:23 -0500
+
+>Commit: f05b175a84f7b3bb3c3ac9a14b0cedd6aceb6b37 
+
+
+
+
+### updating peer dependencies
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Tue, 24 Jul 2018 08:27:03 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Tue, 24 Jul 2018 08:27:03 -0500
+
+>Commit: 5fbe47bc478c4d0d7e8a7749811d8efead0e03e8 
+
+
+
+
+### update packages (origin/master, origin/HEAD)
+
+>Author: Chris Blazek (chris.blazek@gmail.com)
+
+>Author Date: Mon, 23 Jul 2018 16:40:42 -0500
+
+>Commiter: Chris Blazek (chris.blazek@gmail.com)
+
+>Commit Date: Mon, 23 Jul 2018 16:40:42 -0500
+
+>Commit: e5c5f044c8d284c0f036aca8adc6032687a6cc0f 
+
+
+
+
+### update packages
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
@@ -13,7 +58,7 @@
 
 
 
-### changelog (origin/master, origin/HEAD)
+### changelog
 
 >Author: Chris Blazek (chris.blazek@gmail.com)
 
