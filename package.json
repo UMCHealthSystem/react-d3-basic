@@ -44,8 +44,8 @@
     "webpack-hot-middleware": "^2.22.3"
   },
   "peerDependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react": "16.x",
+    "react-dom": "16.x"
   },
   "dependencies": {
     "d3-array": "^1.2.1",
