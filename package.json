@@ -54,7 +54,7 @@
     "d3-scale": "^2.1.0",
     "prop-types": "^15.6.2",
     "react-d3-core": "git+ssh://github.com/UMCHealthSystem/react-d3-core.git",
-    "react-d3-shape": "^0.3.25",
+    "react-d3-shape": "git+ssh://github.com/UMCHealthSystem/react-d3-shape.git",
     "react-faux-dom": "^4.2.0"
   },
   "repository": {
